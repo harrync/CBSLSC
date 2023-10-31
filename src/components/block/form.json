@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_block_forms",
+  "info": {
+    "displayName": "Form",
+    "icon": "paperPlane"
+  },
+  "options": {},
+  "attributes": {
+    "Embed": {
+      "type": "text"
+    }
+  }
+}
